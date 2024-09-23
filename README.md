@@ -11,7 +11,7 @@ This is a script to fill timesheets for the University of South Florida automati
   - ICal link with your schedule
   - Your Excel Timesheet with the **.xlsx** extension!
 ## Installation (Windows only):
-  1. If you don't have the required packages (as listed in the requirements.txt file) or do not want to install them, you can download the *-onefile version of the script. (Skip to step 4)
+  1. If you don't have the required packages (as listed in the requirements.txt file) or do not want to install them, you can [download](https://github.com/NemGam/TimesheetFiller/releases/tag/v1.1) the *-onefile version of the script. (Skip to step 4)
   2. Clone the repository or download timesheet-filler.py and requirements.txt into some folder.
   3. Run the following command from the same folder:
     ```pip install -r requirements.txt```
