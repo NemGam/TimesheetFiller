@@ -9,6 +9,7 @@ This is a script to fill timesheets for the University of South Florida automati
     pip install pipreqs
     ```
   - ICal link with your schedule
+  - Your Excel Timesheet with the **.xlsx** extension!
 ## Installation (Windows only):
   1. If you don't have the required packages (as listed in the requirements.txt file) or do not want to install them, you can download the *-onefile version of the script. (Skip to step 4)
   2. Clone the repository or download timesheet-filler.py and requirements.txt into some folder.
